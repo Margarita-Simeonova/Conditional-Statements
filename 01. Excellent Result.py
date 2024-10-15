@@ -7,4 +7,3 @@ result = evaluate_grade(grade)
 
 if result is not None:
     print(result)
-    
