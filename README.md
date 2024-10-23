@@ -2,6 +2,8 @@
 
 # Logical expressions and checks. Conditional construction if - else.
 
+##Conditional Statements - Lab
+
 ### Tasks
 
 1. Excellent rating
