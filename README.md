@@ -14,7 +14,8 @@ The first task of this topic is to write a console program that reads a grade (a
 2. The larger number:
 To write a program that reads two integers entered by the user and prints the larger of the two.
 
-#######
+
+## Conditional Statements - Exercise
 
 
 3. Even or odd:
@@ -53,3 +54,5 @@ To write a program in which the user enters the type and dimensions of a geometr
  • If the figure is a circle: on the next line read a fractional number - the radius of the circle
  • If the figure is a triangle: on the next two lines read two fractional numbers - the length of its side and the length of the height to it
 Round the result to 3 decimal places.
+
+
