@@ -43,3 +43,13 @@ To write a program that reads a speed (real number) entered by the user and prin
  • For speed over 50 and up to 150 (inclusive) print "fast"
  • For speed over 150 and up to 1000 (inclusive) print "ultra fast"
  • For higher speed, print "extremely fast"
+
+########
+
+7. Faces of figures:
+To write a program in which the user enters the type and dimensions of a geometric figure and calculates its face. There are four types of figures: square, rectangle, circle and triangle. The first line of the input reads the type of figure (text with the following options: square, rectangle, circle or triangle).
+ • If the figure is a square: a fractional number is read on the next line - the length of its side
+ • If the figure is a rectangle: on the next two lines read two fractional numbers - the lengths of its sides
+ • If the figure is a circle: on the next line read a fractional number - the radius of the circle
+ • If the figure is a triangle: on the next two lines read two fractional numbers - the length of its side and the length of the height to it
+Round the result to 3 decimal places.
