@@ -57,12 +57,12 @@ Round the result to 3 decimal places.
 
 ## Conditional Statements - Exercise
 
-1. Addition of seconds
+1. Addition of seconds:
 Three sports competitors finish in some number of seconds (between 1 and 50). To write a program that reads the times of the competitors in seconds entered by the user and calculates their total time in "minutes:seconds" format. Display seconds with a leading zero (2 -> "02", 7 -> "07", 35 -> "35").
 
 ########
 
-2. Bonus points
+2. Bonus points:
 Given an integer - initial number of points. Bonus points are accrued on it according to the rules described below. To write a program that calculates the bonus points that the number receives and the total number of points (the number + the bonus).
  • If the number is up to and including 100, the bonus points are 5;
  • If the number is greater than 100, the bonus points are 20% of the number;
