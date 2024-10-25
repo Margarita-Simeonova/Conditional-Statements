@@ -71,3 +71,10 @@ Given an integer - initial number of points. Bonus points are accrued on it acco
  • Additional bonus points (charged separately from the previous ones):
  ◦ For an even number -> + 1 pt.
  ◦ For a number that ends in 5 -> + 2 pts.
+
+########
+
+3. Time + 15 minutes
+To write a program that reads the hour and minutes of a 24-hour day entered by the user and calculates what the time will be in 15 minutes. Print the result in hours:minutes format. Hours are always between 0 and 23 and minutes are always between 0 and 59. Hours are written as one or two digits. Minutes are always written as two digits, with a leading zero when necessary.
+
+########
