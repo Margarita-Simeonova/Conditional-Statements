@@ -46,11 +46,17 @@ Write a program that reads an integer entered by the user and checks whether it 
 ########
 
 6. Speed ​​information:
+   
 To write a program that reads a speed (real number) entered by the user and prints the speed information.
+
  • For speed up to 10 (inclusive) print "slow"
+ 
  • For speed above 10 and up to 50 (inclusive) print "average"
+ 
  • For speed over 50 and up to 150 (inclusive) print "fast"
+ 
  • For speed over 150 and up to 1000 (inclusive) print "ultra fast"
+ 
  • For higher speed, print "extremely fast"
 
 ########
