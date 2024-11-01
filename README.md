@@ -15,11 +15,9 @@ Write a console program that reads a grade (a real number) entered by the user a
 2. The larger number:
 To write a program that reads two integers entered by the user and prints the larger of the two.
 
+########
 
-## Conditional Statements - Exercise
-
-
-3. Even or odd:
+4. Even or odd:
 To write a program that reads an integer entered by the user and prints whether it is even or odd. 
 If even print "even", if odd print "odd".
 
