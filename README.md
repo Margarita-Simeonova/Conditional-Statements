@@ -62,6 +62,7 @@ To write a program that reads a speed (real number) entered by the user and prin
 ########
 
 7. Faces of figures:
+   
 To write a program in which the user enters the type and dimensions of a geometric figure and calculates its face. There are four types of figures: square, rectangle, circle and triangle. The first line of the input reads the type of figure (text with the following options: square, rectangle, circle or triangle).
  • If the figure is a square: a fractional number is read on the next line - the length of its side
  • If the figure is a rectangle: on the next two lines read two fractional numbers - the lengths of its sides
