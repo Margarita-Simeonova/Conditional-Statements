@@ -12,7 +12,8 @@ Write a console program that reads a grade (a real number) entered by the user a
 
 ########
 
-2. The larger number:
+2. The largest number:
+   
 To write a program that reads two integers entered by the user and prints the larger of the two.
 
 ########
