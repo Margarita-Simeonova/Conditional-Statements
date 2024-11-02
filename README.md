@@ -124,4 +124,20 @@ The console prints:
 
 The result must be formatted to the second decimal place.
 
+########
 
+6. World record in swimming
+Ivan decides to improve the World Record in long distance swimming. Enter the record in seconds that Ivan has to beat, the distance in meters that he has to swim, and the time in seconds that he swims 1 m on the console. Write a program that calculates whether he has completed the task by it is meant that: water resistance slows it down every 15 m by 12.5 seconds. When calculating how many times Ivancho will slow down due to water resistance, the result should be rounded down to the nearest whole number.
+To calculate the time in seconds that Ivancho will take to swim the distance and the difference to the World Record.
+Login
+3 lines are read from the console:
+ 1. The record in seconds – a real number;
+ 2. The distance in meters – a real number;
+ 3. The time in seconds for which he swims a distance of 1 m. - a real number.
+Exit
+Printing to the console depends on the result:
+ • If Ivan has improved the World Record (his time is less than the record) we print:
+ ◦ "Yes, he succeeded! The new world record is {Ivan's time} seconds."
+ • If he did NOT beat the record (his time is greater than or equal to the record) we print:
+ ◦ "No, he failed! He was {missing seconds} seconds slower."
+The result must be formatted to the second decimal place.
