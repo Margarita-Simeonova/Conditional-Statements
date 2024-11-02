@@ -144,18 +144,22 @@ The result must be formatted to the second decimal place.
 
 ########
 
-6. World record in swimming
-Ivan decides to improve the World Record in long distance swimming. Enter the record in seconds that Ivan has to beat, the distance in meters that he has to swim, and the time in seconds that he swims 1 m on the console. Write a program that calculates whether he has completed the task by it is meant that: water resistance slows it down every 15 m by 12.5 seconds. When calculating how many times Ivancho will slow down due to water resistance, the result should be rounded down to the nearest whole number.
-To calculate the time in seconds that Ivancho will take to swim the distance and the difference to the World Record.
+7. Shopping
+Peter wants to buy N video cards, M processors and P number of RAM. If the number of video cards is greater than the number of processors, you get a 15% discount on the final bill. The following prices apply:
+ • Video card – BGN 250/pc.
+ • Processor – 35% of the price of purchased video cards/pcs.
+ • RAM memory – 10% of the price of purchased video cards/pcs.
+To calculate the amount needed to purchase the materials and to calculate whether the budget will be enough.
 Login
-3 lines are read from the console:
- 1. The record in seconds – a real number;
- 2. The distance in meters – a real number;
- 3. The time in seconds for which he swims a distance of 1 m. - a real number.
+The input consists of four lines:
+ 1. Peter's budget - a real number in the interval [1.0…100000.0]
+ 2. The number of video cards - an integer in the interval [1…100]
+ 3. The number of processors - an integer in the interval [1…100]
+ 4. The number of RAM memory - an integer in the interval [1...100]
 Exit
-Printing to the console depends on the result:
- • If Ivan has improved the World Record (his time is less than the record) we print:
- ◦ "Yes, he succeeded! The new world record is {Ivan's time} seconds."
- • If he did NOT beat the record (his time is greater than or equal to the record) we print:
- ◦ "No, he failed! He was {missing seconds} seconds slower."
-The result must be formatted to the second decimal place.
+1 line is printed to the console, which should look like this:
+ • If the budget is sufficient:
+"You have {remaining budget} leva left!"
+ • If the amount exceeds the budget:
+"Not enough money! You need leva more!"
+Format the result to the second decimal place.
