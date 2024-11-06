@@ -14,4 +14,5 @@ def sum_seconds(first_time, second_time, third_time):
 time_1 = int(input())
 time_2 = int(input())
 time_3 = int(input())
-print(sum_seconds(time_1, time_2, time_3))
+result = sum_seconds(time_1, time_2, time_3)
+print(result)
