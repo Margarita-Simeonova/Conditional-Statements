@@ -9,4 +9,5 @@ def greater_number(numb_1, numb_2):
 
 first_number = int(input())
 second_number = int(input())
-print(greater_number(first_number, second_number))
+result = greater_number(first_number, second_number)
+print(result)
