@@ -19,4 +19,5 @@ def bonus_score(number):
 
 numb = int(input())
 result = bonus_score(numb)
+
 print(result)
