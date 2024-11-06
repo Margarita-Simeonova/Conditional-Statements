@@ -2,7 +2,6 @@ def greater_number(numb_1, numb_2):
 
     if numb_1 > numb_2:
         return numb_1
-
     else:
         return numb_2
 
