@@ -7,4 +7,5 @@ def even_or_odd(numb):
 
 
 number = int(input())
-print(even_or_odd(number))
+result = even_or_odd(number)
+print(result)
