@@ -7,4 +7,5 @@ def password_guess(password):
 
 
 text = input()
-print(password_guess(text))
+result = password_guess(text)
+print(result)
