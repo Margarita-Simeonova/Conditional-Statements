@@ -28,4 +28,5 @@ bears_count = int(input())
 minions_count = int(input())
 trucks_count = int(input())
 result = toy_shop(vacation_price, puzzles_count, tolls_count, bears_count, minions_count, trucks_count)
-print()
+
+print(result)
