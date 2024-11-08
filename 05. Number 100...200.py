@@ -12,4 +12,4 @@ def number_100_200(numb):
 number = int(input())
 result = number_100_200(number)
 
-print(number_100_200(number))
+print(result)
