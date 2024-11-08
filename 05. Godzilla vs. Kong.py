@@ -17,4 +17,5 @@ money = float(input())
 extras = int(input())
 price_of_clothing = float(input())
 result = godzilla_vs_kong(money, extras, price_of_clothing)
-print()
+
+print(result)
