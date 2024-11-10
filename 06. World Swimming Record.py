@@ -18,4 +18,5 @@ def world_swimming_record(best_time, distance, time_per_meter):
 record = float(input())
 metres = float(input())
 time = float(input())
-print(world_swimming_record(record, metres, time))
+result = world_swimming_record(record, metres, time)
+print(result)
