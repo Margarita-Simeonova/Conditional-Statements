@@ -20,4 +20,5 @@ def lunch_break(name, series_time, break_time):
 movie_name = input()
 movie_time = int(input())
 break_time = int(input())
-print(lunch_break(movie_name, movie_time, break_time))
+result = lunch_break(movie_name, movie_time, break_time)
+print(result)
