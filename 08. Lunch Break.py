@@ -21,4 +21,5 @@ movie_name = input()
 movie_time = int(input())
 break_time = int(input())
 result = lunch_break(movie_name, movie_time, break_time)
+
 print(result)
