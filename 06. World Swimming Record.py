@@ -19,4 +19,5 @@ record = float(input())
 metres = float(input())
 time = float(input())
 result = world_swimming_record(record, metres, time)
+
 print(result)
