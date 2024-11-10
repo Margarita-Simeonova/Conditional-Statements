@@ -26,4 +26,5 @@ def area_of_figure(figure):
 
 
 figure_arg = input()
-print(area_of_figure(figure_arg))
+result = area_of_figure(figure_arg)
+print(result)
