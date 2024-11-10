@@ -14,4 +14,5 @@ def speed_info(speed):
 
 speed = float(input())
 result = speed_info(speed)
+
 print(result)
