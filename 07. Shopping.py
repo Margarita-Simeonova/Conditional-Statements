@@ -21,4 +21,5 @@ video_cards_count = int(input())
 processors_count = int(input())
 ram_count = int(input())
 result = shopping(budget_for_shopping, video_cards_count, processors_count, ram_count)
+
 print(result)
