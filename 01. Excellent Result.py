@@ -4,6 +4,7 @@ def evaluate_grade(grade):
         return "Excellent!"
 
 grade = float(input())
+# take result
 result = evaluate_grade(grade)
 
 if result is not None:
