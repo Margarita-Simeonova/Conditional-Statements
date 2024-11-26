@@ -9,4 +9,5 @@ grade = float(input())
 result = evaluate_grade(grade)
 
 if result is not None:
+    # if right result
     print(result)
