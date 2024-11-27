@@ -11,6 +11,7 @@ def sum_seconds(first_time, second_time, third_time):
         return f"{time_in_minutes}:{time_in_seconds}"
 
 
+# take input
 time_1 = int(input())
 time_2 = int(input())
 time_3 = int(input())
