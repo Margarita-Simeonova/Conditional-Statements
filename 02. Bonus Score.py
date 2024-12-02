@@ -15,6 +15,7 @@ def bonus_score(number):
     elif number % 10 == 5:
         result += 2
 
+    # return result
     return f"{result}\n{result + number}"
 
 
