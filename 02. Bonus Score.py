@@ -1,7 +1,8 @@
 def bonus_score(number):
-
+    # bonus score
     result = 0
 
+    # if statements
     if number <= 100:
         result += 5
     elif number > 1000:
