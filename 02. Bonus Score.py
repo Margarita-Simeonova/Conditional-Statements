@@ -19,7 +19,8 @@ def bonus_score(number):
     return f"{result}\n{result + number}"
 
 
+# input
 numb = int(input())
+# result
 result = bonus_score(numb)
-
 print(result)
