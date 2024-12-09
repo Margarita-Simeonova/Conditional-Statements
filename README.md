@@ -99,25 +99,33 @@ To write a program that reads the hour and minutes of a 24-hour day entered by t
 
 ########
 
-5. Children's toy store
+5. Children's toy store:
+   
 Petya has a children's toy shop. She gets a big order to fulfill. With the money he will earn, he wants to go on an excursion.
+
 Toy prices:
  • Puzzle - BGN 2.60.
  • Talking doll - BGN 3
  • Teddy bear - BGN 4.10.
  • Mignon - BGN 8.20.
  • Truck - BGN 2
+ 
 If the ordered toys are 50 or more, the store makes a discount of 25% of the total price. From the money earned, Petya must give 10% for the rent of the shop. To calculate whether the money will be enough for her to go on an excursion.
-Login
+
+Innput:
+
 6 lines are read from the console:
- 1. Excursion price - a real number in the interval [1.00 … 10000.00]
- 2. Number of puzzles - an integer in the range [0… 1000]
- 3. Number of talking dolls - an integer in the interval [0 … 1000]
- 4. Number of teddy bears - an integer in the interval [0 … 1000]
- 5. Number of minions - an integer in the interval [0 … 1000]
- 6. Number of trucks - an integer in the interval [0 … 1000]
-Exit
+ 1. Excursion price - a real number
+ 2. Number of puzzles - an integer
+ 3. Number of talking dolls - an integer
+ 4. Number of teddy bears - an integer
+ 5. Number of minions - an integer
+ 6. Number of trucks - an integer
+    
+Output:
+
 The console prints:
+
  • If the money is sufficient, the following is printed:
  ◦ "Yes! {remaining money} lv left."
  • If the money is NOT enough, the following is printed:
