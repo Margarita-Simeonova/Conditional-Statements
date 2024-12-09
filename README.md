@@ -111,13 +111,18 @@ To write a program that reads the hour and minutes of a 24-hour day entered by t
 Petya has a children's toy shop. She gets a big order to fulfill. With the money he will earn, he wants to go on an excursion.
 
 Toy prices:
- • Puzzle - BGN 2.60.
+
+ • Puzzle - BGN 2.60
+ 
  • Talking doll - BGN 3
- • Teddy bear - BGN 4.10.
- • Mignon - BGN 8.20.
+ 
+ • Teddy bear - BGN 4.10
+ 
+ • Mignon - BGN 8.20
+ 
  • Truck - BGN 2
  
-If the ordered toys are 50 or more, the store makes a discount of 25% of the total price. From the money earned, Petya must give 10% for the rent of the shop. To calculate whether the money will be enough for her to go on an excursion.
+ If the ordered toys are 50 or more, the store makes a discount of 25% of the total price. From the money earned, Petya must give 10% for the rent of the shop. To calculate whether the money will be enough for her to go on an excursion.
 
 Innput:
 
