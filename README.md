@@ -92,7 +92,7 @@ Given an integer - initial number of points. Bonus points are accrued on it acco
  
  • If the number is greater than 1000, the bonus points are 10% of the number.
 
- • Additional bonus points (charged separately from the previous ones):
+Additional bonus points (charged separately from the previous ones):
  
  ◦ For an even number -> + 1 pt.
  
