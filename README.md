@@ -196,10 +196,15 @@ The input consists of four lines:
     
 
 1 line is printed to the console, which should look like this:
+
  • If the budget is sufficient:
+ 
 "You have {remaining budget} leva left!"
+
  • If the amount exceeds the budget:
+ 
 "Not enough money! You need leva more!"
+
 Format the result to the second decimal place.
 
 ########
