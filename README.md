@@ -173,15 +173,23 @@ The result must be formatted to the second decimal place.
 
 ########
 
-7. Shopping
+7. Shopping:
+8. 
 Peter wants to buy N video cards, M processors and P number of RAM. If the number of video cards is greater than the number of processors, you get a 15% discount on the final bill. The following prices apply:
+
  • Video card – BGN 250/pc.
+ 
  • Processor – 35% of the price of purchased video cards/pcs.
+ 
  • RAM memory – 10% of the price of purchased video cards/pcs.
+ 
 To calculate the amount needed to purchase the materials and to calculate whether the budget will be enough.
-Login
+
+Input:
+
 The input consists of four lines:
- 1. Peter's budget - a real number in the interval [1.0…100000.0]
+
+ 1. Peter's budget - a real
  2. The number of video cards - an integer in the interval [1…100]
  3. The number of processors - an integer in the interval [1…100]
  4. The number of RAM memory - an integer in the interval [1...100]
