@@ -161,9 +161,11 @@ Input:
 Exit
 Printing to the console depends on the result:
  • If Ivan has improved the World Record (his time is less than the record) we print:
- ◦ "Yes, he succeeded! The new world record is {Ivan's time} seconds."
+
+      "Yes, he succeeded! The new world record is {Ivan's time} seconds."
+    
  • If he did NOT beat the record (his time is greater than or equal to the record) we print:
- ◦ "No, he failed! He was {missing seconds} seconds slower."
+      "No, he failed! He was {missing seconds} seconds slower."
 The result must be formatted to the second decimal place.
 
 ########
