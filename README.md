@@ -147,10 +147,13 @@ The result must be formatted to the second decimal place.
 
 ########
 
-6. World record in swimming
+6. World record in swimming:
+   
 Ivan decides to improve the World Record in long distance swimming. Enter the record in seconds that Ivan has to beat, the distance in meters that he has to swim, and the time in seconds that he swims 1 m on the console. Write a program that calculates whether he has completed the task by it is meant that: water resistance slows it down every 15 m by 12.5 seconds. When calculating how many times Ivancho will slow down due to water resistance, the result should be rounded down to the nearest whole number.
 To calculate the time in seconds that Ivancho will take to swim the distance and the difference to the World Record.
-Login
+
+Input:
+
 3 lines are read from the console:
  1. The record in seconds – a real number;
  2. The distance in meters – a real number;
