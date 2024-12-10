@@ -124,7 +124,7 @@ Toy prices:
  
  If the ordered toys are 50 or more, the store makes a discount of 25% of the total price. From the money earned, Petya must give 10% for the rent of the shop. To calculate whether the money will be enough for her to go on an excursion.
 
-Innput:
+Input:
 
 6 lines are read from the console:
  1. Excursion price - a real number
