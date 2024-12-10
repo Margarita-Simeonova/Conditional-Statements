@@ -174,7 +174,7 @@ The result must be formatted to the second decimal place.
 ########
 
 7. Shopping:
-8. 
+   
 Peter wants to buy N video cards, M processors and P number of RAM. If the number of video cards is greater than the number of processors, you get a 15% discount on the final bill. The following prices apply:
 
  • Video card – BGN 250/pc.
@@ -190,10 +190,11 @@ Input:
 The input consists of four lines:
 
  1. Peter's budget - a real
- 2. The number of video cards - an integer in the interval [1…100]
- 3. The number of processors - an integer in the interval [1…100]
- 4. The number of RAM memory - an integer in the interval [1...100]
-Exit
+ 2. The number of video cards - an integer1
+ 4. The number of processors - an integer
+ 5. The number of RAM memory - an integer
+    
+
 1 line is printed to the console, which should look like this:
  • If the budget is sufficient:
 "You have {remaining budget} leva left!"
