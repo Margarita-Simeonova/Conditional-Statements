@@ -190,7 +190,7 @@ Input:
 The input consists of four lines:
 
  1. Peter's budget - a real
- 2. The number of video cards - an integer1
+ 2. The number of video cards - an integer
  4. The number of processors - an integer
  5. The number of RAM memory - an integer
     
@@ -209,17 +209,26 @@ Format the result to the second decimal place.
 
 ########
 
-8. Lunch break
+8. Lunch break:
+   
 During your lunch break, you want to watch an episode of your favorite series. Your task is to write a program that will tell if you have enough time to watch the episode. During the break, you have time for lunch and time for relaxation. Lunch time will be 1/8 of break time and recess time will be 1/4 of break time.
-Login
+
+Input&
+
 3 lines are read from the console:
  1. Name of series - text
- 2. Episode duration - an integer in the range [10… 90]
- 3. Rest duration - an integer in the range [10… 120]
-Exit
+ 2. Episode duration - an integer
+ 3. Rest duration - an integer
+    
+Output:
+
 Write one line to the console:
  • If there is enough time to watch the episode:
+ 
 "You have enough time to watch {series name} and left with {remaining time} minutes free time."
+
  • If you don't have enough time:
+ 
 "You don't have enough time to watch {series name}, you need {necessary time} more minutes."
+
 Time to round up to the nearest whole number.
