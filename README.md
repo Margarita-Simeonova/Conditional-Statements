@@ -213,9 +213,10 @@ Format the result to the second decimal place.
    
 During your lunch break, you want to watch an episode of your favorite series. Your task is to write a program that will tell if you have enough time to watch the episode. During the break, you have time for lunch and time for relaxation. Lunch time will be 1/8 of break time and recess time will be 1/4 of break time.
 
-Input&
+Input:
 
 3 lines are read from the console:
+
  1. Name of series - text
  2. Episode duration - an integer
  3. Rest duration - an integer
@@ -223,6 +224,7 @@ Input&
 Output:
 
 Write one line to the console:
+
  • If there is enough time to watch the episode:
  
 "You have enough time to watch {series name} and left with {remaining time} minutes free time."
