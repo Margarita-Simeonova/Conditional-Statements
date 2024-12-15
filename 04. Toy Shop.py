@@ -9,6 +9,7 @@ def toy_shop(vacation, puzzles, tolls, bears, minions, trucks):
 	total_price = (puzzles_price + tolls_price + bears_price +
                    minions_price + trucks_price)
 
+	# if sttatemant
 	if total_count >= 50:
 		total_price *= 0.75
 
@@ -16,17 +17,20 @@ def toy_shop(vacation, puzzles, tolls, bears, minions, trucks):
 	money_left = abs(total_price - vacation)
 
 	if vacation <= total_price:
-
+		
+	# return result
 		return f"Yes! {money_left:.2f} lv left."
 	return f"Not enough money! {money_left:.2f} lv needed."
 
 
+# input
 vacation_price = float(input())
 puzzles_count = int(input())
 tolls_count = int(input())
 bears_count = int(input())
 minions_count = int(input())
 trucks_count = int(input())
+# result
 result = toy_shop(vacation_price, puzzles_count, tolls_count, bears_count, minions_count, trucks_count)
 
 print(result)
