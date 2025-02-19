@@ -1,5 +1,6 @@
 def sum_seconds(first_time, second_time, third_time):
-
+    # define function
+    
     total_sum = first_time + second_time + third_time
 
     time_in_minutes = total_sum // 60
