@@ -1,5 +1,6 @@
 def speed_info(speed):
-
+	# difine function
+	
 	if speed <= 10:
 		return "slow"
 	elif 10 < speed <= 50:
@@ -12,7 +13,11 @@ def speed_info(speed):
 		return "extremely fast"
 
 
+# input
 speed = float(input())
+
+# result
 result = speed_info(speed)
 
+# print result
 print(result)
