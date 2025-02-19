@@ -1,7 +1,10 @@
+# inport library
 import math
 
 
 def area_of_figure(figure):
+    # difine function
+    
     result = 0
 
     if figure == "square":
@@ -22,10 +25,15 @@ def area_of_figure(figure):
         h = float(input())
         result = (site * h) / 2
 
+    # return result
     return f"{result:.3f}"
 
 
+# input
 figure_arg = input()
+
+# result
 result = area_of_figure(figure_arg)
 
+# print result
 print(result)
