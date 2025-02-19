@@ -8,6 +8,7 @@ def even_or_odd(numb):
 
 # input
 number = int(input())
+
 # result
 result = even_or_odd(number)
 print(result)
