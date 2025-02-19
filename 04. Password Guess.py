@@ -8,6 +8,7 @@ def password_guess(password):
 
 # input
 text = input()
+
 # result
 result = password_guess(text)
 
