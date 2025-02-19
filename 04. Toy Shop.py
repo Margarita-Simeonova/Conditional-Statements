@@ -1,5 +1,6 @@
 def toy_shop(vacation, puzzles, tolls, bears, minions, trucks):
-
+	# define function
+	
 	total_count = puzzles + tolls + bears + minions + trucks
 	puzzles_price = puzzles * 2.6
 	tolls_price = tolls * 3
@@ -30,7 +31,9 @@ tolls_count = int(input())
 bears_count = int(input())
 minions_count = int(input())
 trucks_count = int(input())
+
 # result
 result = toy_shop(vacation_price, puzzles_count, tolls_count, bears_count, minions_count, trucks_count)
 
+# print result
 print(result)
