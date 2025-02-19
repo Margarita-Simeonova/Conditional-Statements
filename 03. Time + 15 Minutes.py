@@ -27,6 +27,7 @@ def time_15_min(hours, minutes):
 # input 
 input_hour = int(input())
 input_minutes = int(input())
+
 # result
 result = time_15_min(input_hour, input_minutes)
 
