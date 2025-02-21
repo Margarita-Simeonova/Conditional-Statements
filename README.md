@@ -74,7 +74,7 @@ To write a program in which the user enters the type and dimensions of a geometr
 Round the result to 3 decimal places.
 
 
-## Conditional Statements - Exercise
+# Conditional Statements - Exercise
 
 1. Addition of seconds:
    
